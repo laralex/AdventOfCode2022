@@ -18,6 +18,6 @@ My own solutions for the New Year 2022 event of [Advent of code](https://advento
 ```bash
 cmake .
 cmake --build .
-./q1a 
+./bin/q1a 
 # or any other executable
 ```
