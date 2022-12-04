@@ -10,3 +10,6 @@ add_executable(q2b q2b.cpp)
 
 add_executable(q3a q3a.cpp)
 add_executable(q3b q3b.cpp)
+
+add_executable(q4a q4a.cpp)
+add_executable(q4b q4b.cpp)
