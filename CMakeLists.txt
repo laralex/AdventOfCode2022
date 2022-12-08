@@ -18,3 +18,5 @@ add_executable(q5a q5a.cpp)
 add_executable(q5b q5b.cpp)
 
 add_executable(q6 q6.cpp)
+
+add_executable(q7 q7.cpp)
