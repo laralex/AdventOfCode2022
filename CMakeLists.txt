@@ -25,3 +25,6 @@ add_executable(q8a q8a.cpp)
 add_executable(q8b q8b.cpp)
 
 add_executable(q9 q9.cpp)
+
+add_executable(q10a q10a.cpp)
+add_executable(q10b q10b.cpp)
